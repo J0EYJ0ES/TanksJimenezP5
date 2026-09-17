@@ -58,7 +58,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7257760386707701836, guid: e140250870f095140b192da9465849f8, type: 3}
       propertyPath: m_Speed
-      value: 12
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 7257760386707701836, guid: e140250870f095140b192da9465849f8, type: 3}
       propertyPath: m_TurnSpeed
